@@ -6,7 +6,7 @@ A Tableau dashboard exploring customer churn, reported reasons for leaving, cust
 
 **Tool:** Tableau
 
-[View the interactive dashboard on Tableau Public](https://public.tableau.com:9443/views/TelecomCustomerChurnAnalysisDashboard_17908460236670/CustomerChurnOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/TelecomCustomerChurnAnalysisDashboard_17908460236670/CustomerChurnOverview)
 ## Dashboard Preview
 
 ![Telecom Customer Churn Analysis dashboard](dashboard.png)
